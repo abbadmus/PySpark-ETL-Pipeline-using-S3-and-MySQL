@@ -1,0 +1,5 @@
+*.zip
+*.pdf
+*S3.ipynb
+*Mysql.ipynb
+*.ipynb_checkpoints
